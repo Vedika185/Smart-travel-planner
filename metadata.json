@@ -1,0 +1,6 @@
+{
+  "name": "Smart Travel Planner - Incredible India",
+  "description": "Full-stack smart travel itinerary and destination planner with user & admin dashboards, Indian destinations, and INR pricing based in Ahmedabad, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
